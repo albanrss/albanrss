@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 First year student at EPITECH Nantes
+👨‍🎓 First year student at EPITECH Nantes\n
 💻 Currently learning C and JavaScript
 🏋️‍♂️ Sport enjoyer
 
