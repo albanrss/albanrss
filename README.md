@@ -1,5 +1,7 @@
 # 💫 About Me:
-Student at EPITECH Nantes.
+👨‍🎓 First year student at EPITECH Nantes
+💻 Currently learning C and JavaScript
+🏋️‍♂️ Sport enjoyer
 
 
 ## 🌐 Socials:
