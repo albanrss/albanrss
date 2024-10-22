@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍🎓 First year student at EPITECH Nantes\
-💻 Currently learning C, TypeScript and React\
+👨‍🎓 Second year student at EPITECH Nantes\
+💻 Currently learning React and Django\
 🏋️‍♂️ Sport enjoyer
 
 
