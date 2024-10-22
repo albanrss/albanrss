@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albanrss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 --->
 
-[![](https://visitcount.itsvg.in/api?id=Albanrss&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Albanrss&label=Profile%20Views&icon=8&pretty=true)
