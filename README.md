@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👨‍🎓 Second year student at EPITECH Nantes\
+👨‍🎓 Third year student at EPITECH Nantes\
 💻 Currently learning C++ and Haskell\
 🏋️‍♂️ Sport enjoyer
 
