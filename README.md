@@ -1,6 +1,6 @@
 ### 💫 About Me:
 👨‍🎓 Third year student at EPITECH Nantes\
-💻 Currently learning C++ and Haskell\
+💻 Currently learning Flutter and Typescript\
 🏋️‍♂️ Sport enjoyer
 
 #
