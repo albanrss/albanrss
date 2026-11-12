@@ -1,12 +1,12 @@
 # 💫 About Me:
-👨‍🎓 3rd year student at EPITECH Nantes \
-💻 Currently learning COBOL and neural networks \
-🏋️‍♂️ Sport enjoyer \
+👨‍🎓 4th year student at EPITECH Nantes \
+💻 Currently learning neural networks and Japanese \
+🏋️‍♂️ Sports enjoyer Basketball and gym) \
 🌱 I usually touch grass
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alban._.rss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alban-roussée) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alban-roussee) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
