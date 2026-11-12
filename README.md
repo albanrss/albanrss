@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 4th year EPITECH (Nantes) student in Osaka Japan,  \
+👨‍🎓 4th year EPITECH (Nantes) student in Osaka, Japan  \
 💻 Currently learning neural networks and Japanese \
 🏋️‍♂️ Sports enjoyer (basketball and gym) \
 🌱 I usually touch grass
