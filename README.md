@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍🎓 4th year student at EPITECH Nantes \
 💻 Currently learning neural networks and Japanese \
-🏋️‍♂️ Sports enjoyer Basketball and gym) \
+🏋️‍♂️ Sports enjoyer (basketball and gym) \
 🌱 I usually touch grass
 
 ## 🌐 Socials:
